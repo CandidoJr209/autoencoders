@@ -1,4 +1,4 @@
-# Autoencoders
+# autoencoders
 ## A collection of autoencoder examples
 
 That repository uses some of the image datasets from the keras and the torchvision to build autoencoders. There are currently two example codes:
